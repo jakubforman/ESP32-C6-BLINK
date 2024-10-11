@@ -1,0 +1,12 @@
+.pio
+*.bin
+*.elf
+*.o
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+
+# IDEs
+.idea
+.vscode/
